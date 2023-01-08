@@ -1,0 +1,29 @@
+package_name,source,description
+linux,repo,Linux Kernel
+linux-firmware,repo,Firmware for different components
+sof-firmware,repo,Firmware for audio chips
+alsa-ucm-conf,repo,Additional firmware for additional audio chips
+base,repo,The base packages for having a minimal functioning linux system
+bluez,repo,Support for bluetooth
+bluez-utils,repo,Tools for managing bluetooth connection and devices
+man-db,repo,Manual database for command-line utilities and tools
+man-pages,repo,Manual pages for command-line utilities and tools
+wget,repo,command-line utility for downloading files from the web
+vim,repo,Powerful keyboard based editor
+git,repo,Version control system
+zsh,repo,Powerfull command-line shell similar to bash but with many additional features
+htop,repo,Command-line program used for monitoring system resources and processes
+scrot,repo,Small command-line utility used for taking screenshots
+bat,repo,Command-line utility similar with `cat` but with a nicer output
+thunar,repo,Graphical File Manager
+openssh,repo,SSH server
+ueberzug,repo,Enables previews in the lf file manager
+picom,repo,Graphical compositor used for transperency and removes screen-tearing
+dunst,repo,Lightweight notification system
+xorg-server,repo,Is the graphical servevr
+xorg-xwininfo,repo,Queries information about windows
+xorg-xinit,repo,Starts the graphical server
+xorg-xprop,repo,Used for detecting window properties
+xorg-xinput,repo,Used for modifying parameters of input sources
+xwallpaper,repo,Sets the wallpaper
+xorg-xrandr,repo,Configure windows size/positioning etc

@@ -1,0 +1,29 @@
+package_name,maintainer,maintainer_email
+linux,Jan Alexander Steffens (heftig),<heftig@archlinux.org>
+linux-firmware,Laurent Carlier,<lordheavym@archlinux.org>
+sof-firmware,Jan Alexander Steffens (heftig),<heftig@archlinux.org>
+alsa-ucm-conf,David Runge,<dvzrv@archlinux.org>
+base,Jonas Witschel,<diabonas@archlinux.org>
+bluez,Andreas Radke,<andyrtr@archlinux.org>
+bluez-utils,Andreas Radke,<andyrtr@archlinux.org>
+man-db,Andreas Radke,<andyrtr@archlinux.org>
+man-pages,Andreas Radke,<andyrtr@archlinux.org>
+wget,Felix Yan,<felixonmars@archlinux.org>
+vim,Morten Linderud,<foxboron@archlinux.org>
+git,Christian Hesse,<eworm@archlinux.org>
+zsh,Christian Hesse,<eworm@archlinux.org>
+htop,Christian Hesse,<eworm@archlinux.org>
+scrot,Orhun Parmaksız,<orhun@archlinux.org>
+bat,Alexander Rødseth,<rodseth@gmail.com>
+thunar,Evangelos Foutras,<foutrelis@archlinux.org>
+openssh,Evangelos Foutras,<foutrelis@archlinux.org>
+ueberzug,Daniel M. Capella,<polyzen@archlinux.org>
+picom,Alexander Rødseth,<rodseth@gmail.com>
+dunst,Morten Linderud,<foxboron@archlinux.org>
+xorg-server,Andreas Radke,<andyrtr@archlinux.org>
+xorg-xwininfo,Andreas Radke,<andyrtr@archlinux.org>
+xorg-xinit,Andreas Radke,<andyrtr@archlinux.org>
+xorg-xprop,Andreas Radke,<andyrtr@archlinux.org>
+xorg-xinput,Andreas Radke,<andyrtr@archlinux.org>
+xwallpaper,Antonio Rojas,<arojas@archlinux.org>
+xorg-xrandr,Andreas Radke,<andyrtr@archlinux.org>
