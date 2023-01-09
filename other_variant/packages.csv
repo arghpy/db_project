@@ -1,0 +1,29 @@
+package_id,package_name,source,description
+1,linux,repo,Linux Kernel
+2,linux-firmware,repo,Firmware for different components
+3,sof-firmware,repo,Firmware for audio chips
+4,alsa-ucm-conf,repo,Additional firmware for additional audio chips
+5,base,repo,The base packages for having a minimal functioning linux system
+6,bluez,repo,Support for bluetooth
+7,bluez-utils,repo,Tools for managing bluetooth connection and devices
+8,man-db,repo,Manual database for command-line utilities and tools
+9,man-pages,repo,Manual pages for command-line utilities and tools
+10,wget,repo,command-line utility for downloading files from the web
+11,vim,repo,Powerful keyboard based editor
+12,git,repo,Version control system
+13,zsh,repo,Powerfull command-line shell similar to bash but with many additional features
+14,htop,repo,Command-line program used for monitoring system resources and processes
+15,scrot,repo,Small command-line utility used for taking screenshots
+16,bat,repo,Command-line utility similar with `cat` but with a nicer output
+17,thunar,repo,Graphical File Manager
+18,openssh,repo,SSH server
+19,ueberzug,repo,Enables previews in the lf file manager
+20,picom,repo,Graphical compositor used for transperency and removes screen-tearing
+21,dunst,repo,Lightweight notification system
+22,xorg-server,repo,Is the graphical servevr
+23,xorg-xwininfo,repo,Queries information about windows
+24,xorg-xinit,repo,Starts the graphical server
+25,xorg-xprop,repo,Used for detecting window properties
+26,xorg-xinput,repo,Used for modifying parameters of input sources
+27,xwallpaper,repo,Sets the wallpaper
+28,xorg-xrandr,repo,Configure windows size/positioning etc
